@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'biologia',
-    'quais plantas são gimnospermas',
+    'quais plantas são gimnospermas?',
     'araucárias, cedros, ciprestes, pinheiros e sequóias'
 )
 
