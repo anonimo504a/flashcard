@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'biotecnologia',
+    'o que é a biotecnologia verde?',
+    'É a biotecnologia da agricultura'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'biologia',
+    'quais plantas são gimnospermas',
+    'araucárias, cedros, ciprestes, pinheiros e sequóias'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'quimica',
+    'qual elemento tem como simbolo "P"?',
+    'fósforo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'quimica',
+    'o que é H2O?',
+    'água a sigla significa que ela possui duas moléculas de hidrogênio (H) e uma de oxigênio (O)'
 )
